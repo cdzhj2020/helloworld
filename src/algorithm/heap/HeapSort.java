@@ -1,4 +1,4 @@
-package heap;
+package algorithm.heap;
 
 //堆排序
 public class HeapSort {

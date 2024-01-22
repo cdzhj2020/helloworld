@@ -1,4 +1,4 @@
-package beibao;
+package algorithm.beibao;
 
 public class BeiBao {
 
